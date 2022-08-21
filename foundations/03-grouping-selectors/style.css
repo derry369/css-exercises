@@ -1,0 +1,14 @@
+.E-one {
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+}
+
+.E-two {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.E-one,
+.E-two {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
