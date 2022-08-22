@@ -1,0 +1,14 @@
+div p {
+    background-color: #ffff00;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container .text {
+    background-color: hsl(60, 100%, 50%);
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
+
